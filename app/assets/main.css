@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    @apply bg-[#0f0f1a] m-0 p-0;
+}
+
+.router-link-active {
+    color: #3b82f6;
+    text-decoration: underline;
+}
