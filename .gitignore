@@ -26,6 +26,7 @@ logs
 
 # Firebase & Secret configs
 plugins/firebase.client.ts
+plugins/firebase*.ts
 composables/useSnippets.ts
 .env
 .env.*
